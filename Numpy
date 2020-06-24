@@ -1,0 +1,24 @@
+NumPy es el paquete fundamental necesario para la computación científica con Python.
+
+Sitio web: https://www.numpy.org
+Documentación: https://numpy.org/doc
+Lista de correo: https://mail.python.org/mailman/listinfo/numpy-discussion
+Código fuente: https://github.com/numpy/numpy
+Contribuyendo: https://www.numpy.org/devdocs/dev/index.html
+Informes de errores: https://github.com/numpy/numpy/issues
+Informe una vulnerabilidad de seguridad: https://tidelift.com/docs/security
+
+Caracteristicas:
+un poderoso objeto de matriz N-dimensional
+funciones sofisticadas (de radiodifusión)
+herramientas para integrar código C / C ++ y Fortran
+Álgebra lineal útil, transformada de Fourier y capacidades de números aleatorios
+Pruebas:
+
+Las versiones de NumPy ≥ 1.15 requieren pytest
+Las versiones NumPy <1.15 requieren nariz
+Las pruebas se pueden ejecutar después de la instalación con:
+
+python -c 'import numpy; numpy.test () '
+Convocatoria de contribuciones
+NumPy agradece la ayuda de una amplia gama de diferentes orígenes. El trabajo como la documentación de alto nivel o las mejoras en el sitio web son valiosas y nos gustaría hacer crecer nuestro equipo con personas que cumplan estos roles. Las pequeñas mejoras o correcciones siempre son apreciadas y los problemas etiquetados como fáciles pueden ser un buen punto de partida. Si está considerando mayores contribuciones fuera del trabajo de codificación tradicional, contáctenos a través de la lista de correo.
